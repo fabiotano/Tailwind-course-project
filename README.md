@@ -1,1 +1,1 @@
-# Tailwind-course-proyect
+# Tailwind-course-project
